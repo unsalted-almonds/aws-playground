@@ -11,9 +11,8 @@ import com.github.scribejava.core.oauth.OAuth20Service;
 import com.shilin.others.example.TwitterOAuth20Api;
 
 /**
- * Handles IO for a Java Lambda function as a custom authorizer for API Gateway
- *
- * @author Jack Kohn
+ * Authorize user by using Twitter token 
+ * @author Shilin_Gan
  *
  */
 public class APIGatewayTwitterAuthHandler implements RequestHandler<TokenAuthorizerContext, AuthPolicy> {
