@@ -27,5 +27,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/developer/git/gar-next-cache/target/gar-next-cache-0.0.1-SNAPSHOT-shaded.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
