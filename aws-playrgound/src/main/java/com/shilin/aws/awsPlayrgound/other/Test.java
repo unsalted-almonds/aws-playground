@@ -10,6 +10,8 @@ public class Test {
 		
 		DIExampleDocumentSaver saver = locator.getService(DIExampleDBDocumentSaver.class);
 		
+		
+		
 		saver.save();
 	}
 
